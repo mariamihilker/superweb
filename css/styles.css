@@ -87,3 +87,29 @@ footer {
 .page-bottom a:first-child {
   margin-right: 10px;
 }
+@media screen and (max-width: 1080px) {
+  .wrap-container {
+    padding: 0 15px;
+  }
+  header .wrap-container {
+    padding: 15px;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
+}
+@media screen and (max-width: 768px) {
+  header .wrap-container,
+  footer {
+    flex-direction: column;
+  }
+  h1 {
+    margin-top: 20px;
+  }
+  footer .footer-right {
+    margin-top: 42px;
+  }
+  .page-bottom {
+    margin-top: 30px;
+  }
+}
