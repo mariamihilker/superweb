@@ -973,6 +973,7 @@ h1.absolute,h2.absolute {
 .naddancing-script {
 	font-family: 'Dancing Script', cursive;
 	font-size: 18px;
+	padding: 0;
 }
 .contact-container p {
 	line-height: 2;
