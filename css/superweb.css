@@ -970,3 +970,16 @@ h1.absolute,h2.absolute {
 .rightfloat {
 	float: right;
 }
+.naddancing-script {
+	font-family: 'Dancing Script', cursive;
+	font-size: 18px;
+}
+.contact-container p {
+	line-height: 2;
+	margin: 0;
+    padding: 0;
+}
+.large {
+	font-size: 1.3em;
+	padding: 0;
+}
